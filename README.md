@@ -3,11 +3,9 @@
 ## 💜 Olá, meu nome é Maria Eduarda!
 
 - 💻 Estudante de Desenvolvimento de Sistemas  
-- 🌙 Interesse em Frontend, Backend e Design de Interfaces   
-- 🌐 Front-end • Back-end • Design • Tecnologia
-- 🌱 Aprendendo mais sobre python 
-
-
+- 🌙 Interesse em Frontend, Backend e Design de Interfaces  
+- 🌐 Front-end • Back-end • Design • Tecnologia  
+- 🌱 Aprendendo mais sobre Python  
 
 <div align="center"><br>
   <img alt="Eduarda-Js" height="30" width="40"
@@ -22,9 +20,14 @@
 
 ---
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px;">
+
+
   <img
-    width="48%"
     src="https://github-readme-streak-stats.herokuapp.com/?user=AurelioEduarda&theme=tokyonight&hide_border=true"
+    height="170"
   />
+
+  <img src="gif.gif" height="170" />
+
 </div>
